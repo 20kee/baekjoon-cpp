@@ -1,1 +1,1 @@
-# cpp-baekjoon
+# baekjoon-cpp
